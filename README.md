@@ -10,7 +10,7 @@ Books are identified by their respective ISBN. Invalid ISBNs have already been r
 BX-Book-Ratings
 Contains the book rating information. Ratings (`Book-Rating`) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
-Proposed analysis that would be performed on the above data set are:
+Analysis performed on the above data set are:
 
 Top ten best rated books.
 Find list of books named by a author.
