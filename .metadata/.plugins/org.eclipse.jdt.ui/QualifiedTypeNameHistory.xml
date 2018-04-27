@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.shell.Display.Text"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Writable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.LongWritable"/>
+<fullyQualifiedTypeName name="countAverageTuple"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.shaded.com.google.re2j.Pattern"/>
+<fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+<fullyQualifiedTypeName name="java.lang.Float"/>
+<fullyQualifiedTypeName name="org.apache.commons.configuration2.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configurable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.MapReduceBase"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hdfs.tools.GetConf"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Mapper"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Reducer"/>
+<fullyQualifiedTypeName name="java.util.TreeMap"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.NullWritable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Job"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.input.FileInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.FileOutputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.Path"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.input.TextInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.TextOutputFormat"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="org.apache.mahout.cf.taste.model.DataModel"/>
+<fullyQualifiedTypeName name="org.apache.mahout.cf.taste.impl.similarity.PearsonCorrelationSimilarity"/>
+<fullyQualifiedTypeName name="org.apache.mahout.cf.taste.similarity.UserSimilarity"/>
+<fullyQualifiedTypeName name="org.apache.mahout.cf.taste.neighborhood.UserNeighborhood"/>
+<fullyQualifiedTypeName name="org.apache.mahout.cf.taste.impl.neighborhood.NearestNUserNeighborhood"/>
+<fullyQualifiedTypeName name="org.apache.mahout.cf.taste.recommender.Recommender"/>
+<fullyQualifiedTypeName name="org.apache.mahout.cf.taste.impl.recommender.GenericUserBasedRecommender"/>
+<fullyQualifiedTypeName name="org.apache.mahout.cf.taste.recommender.RecommendedItem"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.apache.mahout.cf.taste.common.TasteException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+</qualifiedTypeNameHistroy>

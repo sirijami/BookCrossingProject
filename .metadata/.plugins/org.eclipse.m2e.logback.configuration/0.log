@@ -1,0 +1,339 @@
+2018-04-26 16:16:09,535 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/pom.xml
+2018-04-26 16:16:10,220 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MahoutRecommendation:RecommendBooks:0.0.1-SNAPSHOT @ /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/pom.xml.
+2018-04-26 16:16:10,656 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecommendBooks/src/main/java
+2018-04-26 16:16:10,658 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecommendBooks/src/test/java
+2018-04-26 16:16:10,693 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-04-26 16:16:10,958 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MahoutRecommendation:RecommendBooks:0.0.1-SNAPSHOT @ /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/pom.xml.
+2018-04-26 16:16:11,011 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:16:11,012 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:16:11,013 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:16:11,014 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:16:11,743 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MahoutRecommendation:RecommendBooks:0.0.1-SNAPSHOT @ /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/pom.xml.
+2018-04-26 16:16:12,093 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:16:12,093 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:16:12,093 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:16:12,093 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:18:34,127 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MahoutRecommendation:RecommendBooks:0.0.1-SNAPSHOT @ /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/pom.xml.
+2018-04-26 16:18:34,815 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:18:34,815 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:18:34,816 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:18:34,816 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:18:36,321 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:18:36,321 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:18:36,322 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:18:36,322 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:20:31,997 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:20:31,997 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:20:31,998 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:20:31,998 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:22:33,140 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:22:33,141 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:22:33,141 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:22:33,141 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:24:09,853 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:24:09,854 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:24:09,856 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:24:09,856 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:25:01,811 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-04-26 16:25:06,006 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks
+2018-04-26 16:25:06,006 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2018-04-26 16:25:43,799 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks
+2018-04-26 16:25:43,800 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2018-04-26 16:26:08,607 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-04-26 16:26:21,020 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks
+2018-04-26 16:26:21,020 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2018-04-26 16:26:31,765 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1-sources.jar
+2018-04-26 16:26:31,797 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1-sources.jar
+2018-04-26 16:26:31,846 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/io/takari/aether/takari-local-repository/0.9.0/takari-local-repository-0.9.0-sources.jar
+2018-04-26 16:26:31,861 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/takari/aether/takari-local-repository/0.9.0/takari-local-repository-0.9.0-sources.jar
+2018-04-26 16:26:31,891 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/io/takari/takari-filemanager/0.7.0/takari-filemanager-0.7.0-sources.jar
+2018-04-26 16:26:31,910 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/takari/takari-filemanager/0.7.0/takari-filemanager-0.7.0-sources.jar
+2018-04-26 16:26:31,938 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.2.1/maven-core-3.2.1-sources.jar
+2018-04-26 16:26:32,130 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.2.1/maven-core-3.2.1-sources.jar
+2018-04-26 16:26:32,159 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.2.1/maven-model-3.2.1-sources.jar
+2018-04-26 16:26:32,200 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.2.1/maven-model-3.2.1-sources.jar
+2018-04-26 16:26:32,220 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.2.1/maven-settings-3.2.1-sources.jar
+2018-04-26 16:26:32,240 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.2.1/maven-settings-3.2.1-sources.jar
+2018-04-26 16:26:32,287 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.2.1/maven-settings-builder-3.2.1-sources.jar
+2018-04-26 16:26:32,311 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.2.1/maven-settings-builder-3.2.1-sources.jar
+2018-04-26 16:26:32,342 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.2.1/maven-repository-metadata-3.2.1-sources.jar
+2018-04-26 16:26:32,358 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.2.1/maven-repository-metadata-3.2.1-sources.jar
+2018-04-26 16:26:32,390 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.2.1/maven-artifact-3.2.1-sources.jar
+2018-04-26 16:26:32,413 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.2.1/maven-artifact-3.2.1-sources.jar
+2018-04-26 16:26:32,432 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.2.1/maven-plugin-api-3.2.1-sources.jar
+2018-04-26 16:26:32,467 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.2.1/maven-plugin-api-3.2.1-sources.jar
+2018-04-26 16:26:32,489 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.2.1/maven-model-builder-3.2.1-sources.jar
+2018-04-26 16:26:32,530 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.2.1/maven-model-builder-3.2.1-sources.jar
+2018-04-26 16:26:32,552 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.2.1/maven-aether-provider-3.2.1-sources.jar
+2018-04-26 16:26:32,574 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.2.1/maven-aether-provider-3.2.1-sources.jar
+2018-04-26 16:26:32,598 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2-sources.jar
+2018-04-26 16:26:32,639 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2-sources.jar
+2018-04-26 16:26:32,664 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2-sources.jar
+2018-04-26 16:26:32,688 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2-sources.jar
+2018-04-26 16:26:32,717 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19-sources.jar
+2018-04-26 16:26:32,738 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19-sources.jar
+2018-04-26 16:26:32,766 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17-sources.jar
+2018-04-26 16:26:32,811 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17-sources.jar
+2018-04-26 16:26:32,836 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2018-04-26 16:26:32,850 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2018-04-26 16:26:32,872 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2018-04-26 16:26:32,885 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2018-04-26 16:26:32,907 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.2.1/maven-embedder-3.2.1-sources.jar
+2018-04-26 16:26:32,931 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.2.1/maven-embedder-3.2.1-sources.jar
+2018-04-26 16:26:32,957 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2018-04-26 16:26:32,972 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2018-04-26 16:26:32,993 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2018-04-26 16:26:33,015 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2018-04-26 16:26:33,057 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.2.1/maven-compat-3.2.1-sources.jar
+2018-04-26 16:26:33,101 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.2.1/maven-compat-3.2.1-sources.jar
+2018-04-26 16:26:33,126 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.6/wagon-provider-api-2.6-sources.jar
+2018-04-26 16:26:33,143 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.6/wagon-provider-api-2.6-sources.jar
+2018-04-26 16:26:33,172 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2018-04-26 16:26:33,202 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2018-04-26 16:26:33,233 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1-sources.jar
+2018-04-26 16:26:33,444 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1-sources.jar
+2018-04-26 16:26:33,474 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2-sources.jar
+2018-04-26 16:26:33,524 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2-sources.jar
+2018-04-26 16:26:33,544 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2-sources.jar
+2018-04-26 16:26:33,560 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2-sources.jar
+2018-04-26 16:26:33,586 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.12.0/aether-connector-okhttp-0.12.0-sources.jar
+2018-04-26 16:26:33,600 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.12.0/aether-connector-okhttp-0.12.0-sources.jar
+2018-04-26 16:26:33,624 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/squareup/okhttp/okhttp/1.5.4/okhttp-1.5.4-sources.jar
+2018-04-26 16:26:33,662 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/squareup/okhttp/okhttp/1.5.4/okhttp-1.5.4-sources.jar
+2018-04-26 16:26:33,683 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/aether/aether-connector-wagon/0.9.0.M2/aether-connector-wagon-0.9.0.M2-sources.jar
+2018-04-26 16:26:33,699 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/aether/aether-connector-wagon/0.9.0.M2/aether-connector-wagon-0.9.0.M2-sources.jar
+2018-04-26 16:26:33,726 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.6/wagon-file-2.6-sources.jar
+2018-04-26 16:26:33,747 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.6/wagon-file-2.6-sources.jar
+2018-04-26 16:26:33,767 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2018-04-26 16:26:33,847 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2018-04-26 16:26:33,878 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2018-04-26 16:26:33,895 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2018-04-26 16:33:43,120 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks
+2018-04-26 16:33:43,127 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2018-04-26 16:37:19,770 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:37:19,776 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:37:19,778 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:37:19,778 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:38:03,144 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-04-26 16:39:29,018 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-26 16:39:29,518 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MahoutRecommendation:RecommendBooks:0.0.1-SNAPSHOT @ /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/pom.xml.
+2018-04-26 16:39:30,278 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecommendBooks/src/main/java
+2018-04-26 16:39:30,279 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecommendBooks/src/test/java
+2018-04-26 16:39:30,368 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-26 16:39:30,819 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:39:30,819 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:39:30,821 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:39:30,821 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:40:02,519 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-04-26 16:40:53,191 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks
+2018-04-26 16:40:53,192 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2018-04-26 16:41:54,394 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-04-26 16:42:24,695 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks
+2018-04-26 16:42:24,696 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2018-04-26 16:44:03,729 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks
+2018-04-26 16:44:03,729 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat:run
+2018-04-26 16:46:18,309 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:46:18,310 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:46:18,312 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:46:18,312 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:46:39,879 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks
+2018-04-26 16:46:39,879 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat:run
+2018-04-26 16:50:16,203 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:50:16,204 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:50:16,205 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:50:16,205 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 16:50:39,408 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-04-26 16:52:53,300 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks
+2018-04-26 16:52:53,301 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat:run
+2018-04-26 16:57:50,969 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:57:50,970 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 16:57:50,971 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 16:57:50,971 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 17:01:02,195 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 17:01:02,196 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 17:01:02,197 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 17:01:02,197 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 17:08:32,064 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 17:08:32,065 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 17:08:32,066 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 17:08:32,067 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 17:31:48,371 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 17:31:48,372 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 17:31:48,373 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 17:31:48,373 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 17:33:57,526 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 17:33:57,526 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 17:33:57,528 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 17:33:57,528 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-26 17:42:32,569 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 17:42:32,572 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-26 17:42:32,575 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-26 17:42:32,576 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:15:48,147 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:15:48,148 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:15:48,149 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:15:48,149 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:16:03,870 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:16:03,870 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:16:03,871 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:16:03,871 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:17:04,471 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:17:04,471 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:17:04,473 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:17:04,473 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:19:39,031 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:19:39,032 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:19:39,033 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:19:39,033 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:27:26,614 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:27:26,614 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:27:26,615 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:27:26,615 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:28:28,881 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:28:28,881 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:28:28,883 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:28:28,883 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:30:00,154 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:30:00,155 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:30:00,156 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:30:00,156 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:30:30,817 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:30:30,820 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:30:30,823 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:30:30,823 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:30:34,334 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:30:34,334 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:30:34,335 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:30:34,335 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:30:42,704 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:30:42,705 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:30:42,705 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:30:42,706 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:31:34,523 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:31:34,524 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:31:34,525 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:31:34,525 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:33:20,226 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:33:20,226 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:33:20,229 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:33:20,229 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:36:52,076 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:36:52,077 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:36:52,078 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:36:52,078 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:37:13,407 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:37:13,408 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:37:13,409 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:37:13,409 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:38:45,474 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:38:45,475 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:38:45,476 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:38:45,476 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:39:02,839 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:39:02,839 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:39:02,840 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:39:02,840 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:40:20,374 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:40:20,374 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:40:20,376 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:40:20,376 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:42:22,270 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:42:22,271 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:42:22,273 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:42:22,273 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:44:53,318 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:44:53,318 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:44:53,319 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:44:53,320 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:45:49,776 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:45:49,777 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:45:49,779 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:45:49,779 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:47:24,255 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:47:24,256 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:47:24,257 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:47:24,257 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:47:53,133 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:47:53,133 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:47:53,133 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:47:53,133 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:48:22,820 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:48:22,820 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:48:22,821 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:48:22,821 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:51:08,925 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:51:08,926 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:51:08,927 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:51:08,927 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:51:14,606 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:51:14,606 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:51:14,607 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:51:14,607 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:55:47,914 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:55:47,914 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:55:47,915 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:55:47,915 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:57:39,623 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:57:39,624 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:57:39,626 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:57:39,626 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:58:50,334 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:58:50,335 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:58:50,337 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:58:50,337 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:59:14,611 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:59:14,611 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:59:14,612 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:59:14,612 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:59:31,495 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:59:31,495 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:59:31,496 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:59:31,496 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 11:59:48,324 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:59:48,325 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 11:59:48,325 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:59:48,325 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:00:11,089 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:00:11,090 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:00:11,091 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:00:11,091 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:00:15,680 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:00:15,680 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:00:15,682 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:00:15,682 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:00:36,502 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:00:36,504 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:00:36,505 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:00:36,505 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:01:29,578 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:01:29,579 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:01:29,580 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:01:29,580 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:01:35,505 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:01:35,505 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:01:35,506 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:01:35,507 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:04:46,720 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:04:46,722 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:04:46,723 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:04:46,723 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:06:07,562 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:06:07,563 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:06:07,564 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:06:07,564 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:07:06,092 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:07:06,092 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:07:06,093 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:07:06,093 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:18:04,463 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:18:04,464 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:18:04,465 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:18:04,465 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:18:23,564 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:18:23,565 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:18:23,565 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:18:23,565 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
+2018-04-27 12:39:24,811 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:39:24,812 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/main/resources
+2018-04-27 12:39:24,813 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 12:39:24,814 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sirishaepari/Documents/BookCrossingProject/RecommendBooks/src/test/resources
